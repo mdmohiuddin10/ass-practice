@@ -31,9 +31,7 @@
     .icon-section {
         margin: 100px 100px;
     }
-    .footer {
-        height: 80vh;
-    }
+    
 }
 
     
@@ -150,9 +148,7 @@
     .icon-section-item h4 {
         font-size: 16px;
     }
-    .footer {
-        height: 100vh;
-    }
+
     .footer-social-icon {
         grid-template-columns: repeat(3, 50px);
         gap: 20px;
@@ -277,9 +273,7 @@
     .icon-section-item h4 {
         font-size: 8px;
     }
-    .footer {
-        height: 100vh;
-    }
+    
     .footer-social-icon {
         grid-template-columns: repeat(3, 50px);
         gap: 20px;
