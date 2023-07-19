@@ -1,4 +1,44 @@
-@media screen and (min-width:426px) and (max-width: 768px){
+@media screen and (min-width:993px) and (max-width: 1200px){
+    .banner {
+        margin: 20px 100px;
+    }
+    .gamer-container {
+        margin: 100px 100px;
+    }
+    .gamer-btn {
+        font-size: 12px;
+        text-align: center;
+    }
+    .poster-section {
+        margin: 100px 100px;
+    }
+    .online-game-container {
+        margin: 200px 100px;
+    }
+    .online-game-img {
+        width: 50%;
+        position: relative;
+    }
+    .online-game-img img {
+        width: 100%;
+    }
+    .sub-img {
+        position: absolute;
+        width: 40%;
+        bottom: -15%;
+        left: 80%;
+    }
+    .icon-section {
+        margin: 100px 100px;
+    }
+    .footer {
+        height: 60vh;
+    }
+}
+
+    
+   
+@media screen and (min-width:426px) and (max-width: 992px){
     .nav-bar {
         flex-direction: column;
     }
@@ -50,10 +90,6 @@
     .poster-section {
         margin: 50px;
     }
-    .gamer-btn {
-        margin-left: 200px;
-        padding: 20px 50px;
-    }
     .unleash {
         text-align: center;
         font-size: 24px;
@@ -86,20 +122,20 @@
         width: 100%;
     }
     .online-game-img img {
-        width: 90%;
+        width: 80%;
     }
     .sub-img {
         position: absolute;
-        width: 300px;
-        bottom: -25%;
-        left: 60%;
+        width: 40%;
+        bottom: -10%;
+        left: 65%;
     }
     .online-game-content {
         width: 100%;
         margin-top: 50px;
     }
     .online-game-title {
-        font-size: 30px;
+        font-size: 45px;
     }
     .icon-section  {
         grid-template-columns: repeat(3, 1fr);
@@ -175,9 +211,6 @@
     }
     .poster-section {
         margin: 50px;
-    }
-    .gamer-btn {
-        margin-left: 50px;
     }
     .unleash {
         text-align: center;

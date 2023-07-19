@@ -40,9 +40,7 @@
     align-items: center;
 }
 .nav-text ul  li {
-    list-style: none;
-  
-    
+    list-style: none;    
 }
 li a {
     text-decoration: none;
@@ -162,6 +160,9 @@ li a {
 .gamer-text {
     text-align: end;
 }
+.gamer-section-btn {
+    text-align: center;
+}
 .gamer-btn {
     color: #FFF;
     font-size: 20px;
@@ -170,7 +171,6 @@ li a {
     margin-top: 20px;
     text-transform: uppercase;
     border-radius: 48px;
-    margin-left: 350px;
     background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
 }
 .unleash {
@@ -266,9 +266,9 @@ li a {
 }
 .sub-img {
     position: absolute;
-    width: 300px;
+    width: 40%;
     bottom: -20%;
-    left: 70%;
+    left: 75%;
 }
 .online-game-content {
     width: 50%;
