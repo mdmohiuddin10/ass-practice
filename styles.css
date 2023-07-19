@@ -130,7 +130,7 @@ li a {
 /*   gamer section  */
 .gamer-container {
     display: flex;
-    margin: 0 240px 100px;
+    margin: 100px 240px 100px;
     gap: 20px;
     justify-content: center;
     align-items: center;
@@ -161,7 +161,7 @@ li a {
     text-align: end;
 }
 .gamer-section-btn {
-    text-align: center;
+    text-align: right;
 }
 .gamer-btn {
     color: #FFF;
@@ -176,7 +176,7 @@ li a {
 .unleash {
     color: #534C64;
     text-align: right;
-    font-size: 24px; 
+    font-size: 20px; 
     font-weight: 500;
     margin-top: 20px;
 }
@@ -221,7 +221,7 @@ li a {
 .overly-description {
     font-size: 20px;
     color: #F948B2;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 .overly {
     position: absolute;

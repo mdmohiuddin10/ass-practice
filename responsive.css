@@ -87,6 +87,9 @@
     .gamer-img-item {
         width: 100%;
     }
+    .gamer-section-btn {
+        text-align: center;
+    }
     .poster-section {
         margin: 50px;
     }
@@ -219,6 +222,9 @@
     }
     .gamer-img-item {
         width: 100%;
+    }
+    .gamer-section-btn {
+        text-align: center;
     }
     .poster-section {
         margin: 50px;
