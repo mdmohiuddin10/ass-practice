@@ -275,7 +275,9 @@
         margin: 50px;
     }
     .icon-section-item img {
-        width: 40px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
     }
     .icon-section-item h4 {
         font-size: 8px;
