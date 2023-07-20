@@ -19,6 +19,9 @@
         width: 50%;
         position: relative;
     }
+    .banner-description-container {
+        justify-content: center;
+    }
     .online-game-img img {
         width: 100%;
     }
@@ -60,9 +63,11 @@
         text-align: center;
         margin-bottom: 30px;
     }
-    .tablet {
+    .banner-description-container {
+        justify-content: center;
         text-align: center;
-        margin-bottom: 30px;
+        margin: 20px auto;
+
     }
     .banner-btn {
         text-align: center;
@@ -111,8 +116,10 @@
     .card-item {
         margin-bottom: 50px;
     }
+    .overly-icon {
+        font-size: 40px;
+    }
     .overly-description {
-        padding-top: 200px;
         font-size: 40px;
     }
     .online-game-container  {

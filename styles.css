@@ -113,6 +113,14 @@ li a {
     font-weight: 500;
     padding: 10px 0px;
 }
+.banner-description-container {
+    justify-content: center;
+}
+.fa-solid {
+    font-size: 20px;
+    margin-right: 5px;
+    color: #FF42A5;
+}
 .btn {
     color: #FFF;
     font-size: 20px;
@@ -215,13 +223,20 @@ li a {
     width: 100%;
     height: 100%;
 }
+.overly-item {
+    margin-top: 50%;
+}
+.overly-icon {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
 .overly-work {
     position: relative;
 }
 .overly-description {
     font-size: 20px;
     color: #F948B2;
-    padding-top: 100px;
 }
 .overly {
     position: absolute;
@@ -370,10 +385,12 @@ li a {
     text-align: center;
     margin-top: 50px;
 }
-p {
+.copiright {
     color: rgba(255, 255, 255, 0.60);
     text-align: center;
     font-size: 16px;
     font-weight: 500;
+    padding-bottom: 50px;
     margin-top: 40px;
+    
 }
